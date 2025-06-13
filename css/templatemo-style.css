@@ -428,7 +428,7 @@ header {
 .Modern-Slider .PrevArrow:before{content:'\f104';}
 
 .Modern-Slider .item .image {
-  animation: zoomin 12s ease-in-out infinite alternate;
+  noanimation: zoomin 12s ease-in-out infinite alternate;
   -webkit-animation: zoomin 12s ease-in-out infinite alternate;
 }
 
