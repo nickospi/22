@@ -427,15 +427,15 @@ header {
 
 .Modern-Slider .PrevArrow:before{content:'\f104';}
 
-.Modern-Slider .item .image {
-  noanimation: zoomin 12s ease-in-out infinite alternate;
+/*.Modern-Slider .item .image {
+  animation: zoomin 12s ease-in-out infinite alternate;
   -webkit-animation: zoomin 12s ease-in-out infinite alternate;
 }
 
 @keyframes zoomin {
     0% {-webkit-transform: scale(1);}
     100% {-webkit-transform: scale(1.2);}
-}
+}*/
 
 .Modern-Slider {background:transparent;}
 
